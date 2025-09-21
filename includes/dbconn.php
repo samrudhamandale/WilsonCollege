@@ -2,6 +2,6 @@
     $dbuser="root";
     $dbpass="";
     $host="localhost";
-    $db="willsoncollegedb";
+    $db="wilsoncollegedb";
     $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
 ?>
